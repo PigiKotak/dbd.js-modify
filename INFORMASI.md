@@ -3,7 +3,7 @@ Apa yang ku modify :
 1. Memberi penjelasan ke dalam bahasa indonesia
 2. List command ada di commands/listcmd.js
 
-dbd.js command bukan milikku, untuk original creditnya ke github.com/Leref
+dbd.js command bukan milikku, untuk original creditnya ke github.com/JastinXYZ
 
 ----------------------------------------------------------------------------
 
