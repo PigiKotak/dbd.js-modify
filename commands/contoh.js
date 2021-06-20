@@ -1,5 +1,7 @@
 module.exports = { 
 
 name: "contoh",
-code: `$title[`
+code: `$message[$message]
+$deletecommand`,
+aliases: "bicara"
     }

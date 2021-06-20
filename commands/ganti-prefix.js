@@ -9,5 +9,6 @@ $color[$getVar[warna]]
 $description[<a:Mousea_checklist:855820835033579540> - Berhasil! Sekarang PREFIX aku di server ini adalah = \`$getServerVar[prefix]\`]
 $footer[Mousea.co.id JS Bot V1.4 | ]
 $setServerVar[prefix;$message[1]]
-$argsCheck[>1;Gunakan: $getServerVar[prefix]`
+$argsCheck[>1;Gunakan: $getServerVar[prefix]gantiprefix <prefix baru>]
+$addReactions[<a:Mousea_checklist:855820835033579540>]`
 }
