@@ -16,7 +16,7 @@ bot.onMessage()
 
  // Variable
 bot.variables({
- prefix: "YOUR BOT PREFIX",
+ prefix: "PREFIX BOT KAMU",
  warn: "0",
  color: "FFFFFF"
 })
